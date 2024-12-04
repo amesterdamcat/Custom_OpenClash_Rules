@@ -1,5 +1,5 @@
-DOMAIN-REGEX:^.*-sin\.live\.mmcdn\.com$
-DOMAIN-REGEX:^.*-nrt\.live\.mmcdn\.com$
+DOMAIN-REGEX,^.*-sin\.live\.mmcdn\.com$
+DOMAIN-REGEX,^.*-nrt\.live\.mmcdn\.com$
 DOMAIN-SUFFIX,mmcdn.com
 DOMAIN-SUFFIX,chaturbate.com
 DOMAIN-SUFFIX,highwebmedia.com
